@@ -93,7 +93,7 @@ def main():
 
     translated_dir = Path(__file__).parent / "translated" / lang
     output_html_dir = Path(__file__).parent / "output" / lang
-    pdf_path = Path(__file__).parent / "output" / lang / f"mto-drivers-handbook-{lang}.pdf"
+    pdf_path = Path(__file__).parent / "output" / "pdf" / f"mto-drivers-handbook-{lang}.pdf"
     print_html_path = output_html_dir / "_print.html"
 
     if not translated_dir.exists():
