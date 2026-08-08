@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "index",
+    "title": "The Official MTO Driver's Handbook",
+    "depth": -1
+  },
+  {
+    "slug": "getting-your-drivers-licence",
+    "title": "Getting Your Driver’s Licence",
+    "depth": 0
+  },
+  {
+    "slug": "safe-and-responsible-driving",
+    "title": "Safe and Responsible Driving",
+    "depth": 0
+  },
+  {
+    "slug": "getting-ready-drive",
+    "title": "Getting ready to drive",
+    "depth": 1
+  },
+  {
+    "slug": "driving-along",
+    "title": "Driving along",
+    "depth": 1
+  },
+  {
+    "slug": "sharing-road-other-road-users",
+    "title": "Sharing the road with other road users",
+    "depth": 1
+  },
+  {
+    "slug": "driving-through-intersections",
+    "title": "Driving through intersections",
+    "depth": 1
+  },
+  {
+    "slug": "stopping",
+    "title": "Stopping",
+    "depth": 1
+  },
+  {
+    "slug": "changing-directions",
+    "title": "Changing directions",
+    "depth": 1
+  },
+  {
+    "slug": "changing-positions",
+    "title": "Changing positions",
+    "depth": 1
+  },
+  {
+    "slug": "parking-along-roadways",
+    "title": "Parking along roadways",
+    "depth": 1
+  },
+  {
+    "slug": "freeway-driving",
+    "title": "Freeway driving",
+    "depth": 1
+  },
+  {
+    "slug": "dealing-particular-situations",
+    "title": "Dealing with particular situations",
+    "depth": 1
+  },
+  {
+    "slug": "driving-night-and-bad-weather",
+    "title": "Driving at night and in bad weather",
+    "depth": 1
+  },
+  {
+    "slug": "dealing-emergencies",
+    "title": "Dealing with emergencies",
+    "depth": 1
+  },
+  {
+    "slug": "driving-efficiently",
+    "title": "Driving efficiently",
+    "depth": 1
+  },
+  {
+    "slug": "traffic-signs-and-lights",
+    "title": "Traffic Signs and Lights",
+    "depth": 0
+  },
+  {
+    "slug": "signs",
+    "title": "Signs",
+    "depth": 1
+  },
+  {
+    "slug": "traffic-lights",
+    "title": "Traffic lights",
+    "depth": 1
+  },
+  {
+    "slug": "pedestrian-signals",
+    "title": "Pedestrian signals",
+    "depth": 1
+  },
+  {
+    "slug": "pavement-markings",
+    "title": "Pavement markings",
+    "depth": 1
+  },
+  {
+    "slug": "keeping-your-drivers-licence",
+    "title": "Keeping Your Driver’s Licence",
+    "depth": 0
+  },
+  {
+    "slug": "other-ways-lose-your-licence",
+    "title": "Other ways to lose your licence",
+    "depth": 1
+  },
+  {
+    "slug": "your-vehicle",
+    "title": "Your Vehicle",
+    "depth": 0
+  },
+  {
+    "slug": "maintaining-your-vehicle",
+    "title": "Maintaining your vehicle",
+    "depth": 1
+  },
+  {
+    "slug": "vehicle-insurance-and-registration",
+    "title": "Vehicle insurance and registration",
+    "depth": 1
+  },
+  {
+    "slug": "towing",
+    "title": "Towing",
+    "depth": 1
+  },
+  {
+    "slug": "test-yourself-sample-knowledge-test-questions",
+    "title": "Test yourself - Sample knowledge test questions",
+    "depth": 1
+  },
+  {
+    "slug": "level-two-road-test",
+    "title": "The Level Two Road Test",
+    "depth": 0
+  },
+  {
+    "slug": "off-road-vehicles-snowmobiles",
+    "title": "Off-road Vehicles & Snowmobiles",
+    "depth": 0
+  }
+]
